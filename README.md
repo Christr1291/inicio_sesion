@@ -1,8 +1,9 @@
 # README.md
 
 # Web
-<img width="656" height="866" alt="image" src="https://github.com/user-attachments/assets/5efd5876-16ba-4c6a-af69-485c1a841c33" />
+<img width="760" height="871" alt="image" src="https://github.com/user-attachments/assets/0bbe2be8-a636-4838-9dba-94d217c034de" />
 
 #Telefono
 
-<img width="464" height="790" alt="image" src="https://github.com/user-attachments/assets/ced9ae74-cd7e-4733-96a0-12eba64ed3d0" />
+<img width="465" height="786" alt="image" src="https://github.com/user-attachments/assets/95778c4b-be48-4371-870c-a32b4b160ff3" />
+
