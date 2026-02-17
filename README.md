@@ -1,16 +1,8 @@
-# myapp
+# README.md
 
-A new Flutter project.
+# Web
+<img width="656" height="866" alt="image" src="https://github.com/user-attachments/assets/5efd5876-16ba-4c6a-af69-485c1a841c33" />
 
-## Getting Started
+#Telefono
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="464" height="790" alt="image" src="https://github.com/user-attachments/assets/ced9ae74-cd7e-4733-96a0-12eba64ed3d0" />
